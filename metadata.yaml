@@ -1,0 +1,31 @@
+_repo: Gambler-s-dollar_70051
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Tuttle, W. C. (Wilbur C.)
+    aliases:
+    - Tuttle, Wilbur C.
+    - Tuttle, Wilbur Coleman
+    birthdate: 1883
+    deathdate: 1969
+    gutenberg_agent_id: '52836'
+    url: http://www.gutenberg.org/2009/agents/52836
+    wikipedia: https://en.wikipedia.org/wiki/W._C._Tuttle
+description: ''
+gutenberg_issued: '2023-02-16'
+identifiers:
+  gutenberg: '70051'
+language: en
+pgterms:marc904: https://archive.org/details/AdventureV103N06194010
+pgterms:marc905: 20230117061428tuttle
+pgterms:marc906: '1940'
+pgterms:marc907: US
+production_note: Roger Frank and Sue Clark
+publication_note: '  $aChicago, IL :$bPopular Publications, Inc, $c1940.'
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- GITenberg
+title: Gambler's dollar
+url: http://www.gutenberg.org/ebooks/70051
